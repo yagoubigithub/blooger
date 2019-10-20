@@ -341,17 +341,17 @@ main .post-content .post-title a{
   color : black;
 }
 
-.site-content .sidebar .pupolar-post h2{
+.site-content .sidebar .popular-post h2{
   padding-top: 8rem;
 }
-.site-content .sidebar .pupolar-post .post-content .post-image .post-info{
+.site-content .sidebar .popular-post .post-content .post-image .post-info{
   padding: .4rem .1rem !important;
   bottom: 0rem !important;
   left: 1.5rem !important;
   border-radius: 0rem !important;
   background: var(--white) !important;
 }
-.site-content  .sidebar .pupolar-post .post-content .post-title a   {
+.site-content  .sidebar .popular-post .post-content .post-title a   {
   font-size: 1rem !important;
   
 }
@@ -376,6 +376,18 @@ font-size: 1rem;
   padding: .8rem 32%;
   margin: 1rem 0;
 background: var(--sky);
+}
+
+.site-content .sidebar .popular-tags{
+  padding: 5rem 0;
+
+}
+.site-content .sidebar .popular-tags .tag{
+  display: inline-block;
+  background: var(--sky);
+  padding: .4rem 1rem;
+  border-radius: 3rem;
+  margin: .4rem .6rem;
 }
 
 /*------X-----------Sidebar----------X----------------*/
