@@ -44,5 +44,9 @@ $(document).ready(function(){
             },1000)
         })
 
+        //AOS ANIMATION ON SCROLL
+
+        AOS.init();
+
 
 })
