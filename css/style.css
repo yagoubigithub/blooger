@@ -341,6 +341,43 @@ main .post-content .post-title a{
   color : black;
 }
 
+.site-content .sidebar .pupolar-post h2{
+  padding-top: 8rem;
+}
+.site-content .sidebar .pupolar-post .post-content .post-image .post-info{
+  padding: .4rem .1rem !important;
+  bottom: 0rem !important;
+  left: 1.5rem !important;
+  border-radius: 0rem !important;
+  background: var(--white) !important;
+}
+.site-content  .sidebar .pupolar-post .post-content .post-title a   {
+  font-size: 1rem !important;
+  
+}
+
+.site-content .sidebar .newsletter{
+  padding: 3rem;
+}
+.site-content .sidebar .newsletter .form-element{
+  padding: .5rem 2rem;
+}
+.site-content .sidebar .newsletter .form-element .input-element{
+width: 80%;
+height: 1.9rem;
+padding: .3rem .5rem;
+font-family: var(--Lexend);
+font-size: 1rem;
+
+}
+
+.site-content .sidebar .newsletter .form-btn{
+  border-radius: 0;
+  padding: .8rem 32%;
+  margin: 1rem 0;
+background: var(--sky);
+}
+
 /*------X-----------Sidebar----------X----------------*/
 
 
